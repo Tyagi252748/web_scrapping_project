@@ -1,4 +1,4 @@
-# review_sc_hindi
+# web_scrapping_project
 
 URL FOR ACCESSING THE WEBPAGE CREATED IN THIS PROJECT IS HERE
 
